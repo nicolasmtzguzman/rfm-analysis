@@ -3,7 +3,9 @@
 TrendHive, an online retail store, has grown rapidly in recent years, attracting a diverse customer base and processing a significant volume of transactions. As a result, the company seeks to better understand its customers, improve targeted marketing strategies, and increase overall customer satisfaction and retention. I have teamed up with the Head of Analytics to analyze transaction data and perform RFM Analysis (Recency, Frequency, Monetary value) to segment customers into meaningful groups. This segmentation will provide actionable insights to tailor marketing campaigns, allocate resources effectively, and identify opportunities for growth.
 ## Executive Summary
 After analysis of TrendHive’s 400K records spanning 2009 - 2010, its customers were split into the following 7 groups based on their RFM scores: “Retain”, “Re-engage”, “Nurture”, “Reward”, “Spoil”, “Upsell”, and “Treasure”. 35% of customers fell into the “Nurture” category, the least active and lower-valued customers. Approximately 5% of customers fell into the “Treasure” category. These are the most valued customers as they make frequent purchases with extreme spending. By focusing on targeted engagement strategies, TrendHive can enhance customer loyalty, optimize marketing ROI, and unlock new opportunities for revenue growth.
-![transactions (1)](https://github.com/user-attachments/assets/30a54b0c-a844-4e7b-b226-2cd06b673d31)
+
+![transactions](https://github.com/user-attachments/assets/38ffc777-e4ab-4d3b-8dd2-b713a786f96c)
+
 
 ## Cluster Analysis
 | Group     | Number of Customers | % of Total Customers |
